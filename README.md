@@ -22,5 +22,20 @@ A relevance score for each track and a recommended track.
 A reproducible pipeline that cleans resume text and converts it
 into TF-IDF and embedding features.
 
+
 ## How to Run
-Coming soon.
+
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Place the dataset at data/raw/UpdatedResumeDataSet.csv
+
+3. Run the pipeline in order:
+   python src/clean.py
+   python src/tfidf.py
+   python src/embeddings.py
+
+Outputs are saved to data/processed/:
+- cleaned_resumes.csv
+- tfidf_matrix.npz and tfidf_vectorizer.joblib
+- resume_embeddings.npy
