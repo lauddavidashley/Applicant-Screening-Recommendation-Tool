@@ -25,9 +25,24 @@ def main():
     pd.Series(track_names).to_csv(TRACK_NAMES_OUT, index=False, header=["Category"])
 
     print(f"Track embeddings shape: {track_embeddings.shape}")
-    print(f"Tracks: {track_names}")
 
+    # Quick test: match the first resume in the dataset against all tracks
+    resume_embeddings = model.encode(df["Cleaned"].tolist())
+    test_index = 0
+    result = match_resume_to_tracks(resume_embeddings[test_index], track_embeddings, track_names)
+
+    print(f"\nActual category of resume {test_index}: {df['Category'].iloc[test_index]}")
+    print("Top matches:")
+    for name, score in result:
+        print(f"  {name}: {score:.3f}")
+
+from sklearn.metrics.pairwise import cosine_similarity
+
+
+def match_resume_to_tracks(resume_embedding, track_embeddings, track_names, top_n=3):
+    scores = cosine_similarity([resume_embedding], track_embeddings)[0]
+    ranked = sorted(zip(track_names, scores), key=lambda x: x[1], reverse=True)
+    return ranked[:top_n]
 
 if __name__ == "__main__":
     main()
-    
