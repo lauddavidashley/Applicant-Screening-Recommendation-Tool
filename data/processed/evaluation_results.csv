@@ -1,0 +1,963 @@
+Category,Predicted,Confidence,Correct
+Data Science,Data Science,1.0000002,True
+Data Science,Data Science,0.70432484,True
+Data Science,Data Science,0.67112255,True
+Data Science,Data Science,0.7519615,True
+Data Science,Java Developer,0.6794152,False
+Data Science,Python Developer,0.58768845,False
+Data Science,Data Science,0.7927652,True
+Data Science,Data Science,0.7644134,True
+Data Science,Data Science,0.752609,True
+Data Science,Java Developer,0.75106823,False
+Data Science,Data Science,1.0,True
+Data Science,Data Science,0.7043249,True
+Data Science,Data Science,0.67112255,True
+Data Science,Data Science,0.7519615,True
+Data Science,Java Developer,0.6794152,False
+Data Science,Python Developer,0.58768845,False
+Data Science,Data Science,0.7927651,True
+Data Science,Data Science,0.76441336,True
+Data Science,Data Science,0.75260913,True
+Data Science,Java Developer,0.75106823,False
+Data Science,Data Science,1.0,True
+Data Science,Data Science,0.7043249,True
+Data Science,Data Science,0.67112243,True
+Data Science,Data Science,0.7519616,True
+Data Science,Java Developer,0.6794152,False
+Data Science,Python Developer,0.58768845,False
+Data Science,Data Science,0.7927651,True
+Data Science,Data Science,0.76441336,True
+Data Science,Data Science,0.75260913,True
+Data Science,Java Developer,0.75106823,False
+Data Science,Data Science,1.0,True
+Data Science,Data Science,0.7043249,True
+Data Science,Data Science,0.67112243,True
+Data Science,Data Science,0.7519616,True
+Data Science,Java Developer,0.6794152,False
+Data Science,Python Developer,0.5876883,False
+Data Science,Data Science,0.7927651,True
+Data Science,Data Science,0.76441336,True
+Data Science,Data Science,0.75260913,True
+Data Science,Java Developer,0.75106823,False
+HR,HR,0.62472564,True
+HR,HR,0.92091,True
+HR,Sales,0.4878013,False
+HR,HR,0.50252163,True
+HR,HR,0.50252163,True
+HR,Java Developer,0.47633976,False
+HR,HR,0.5552834,True
+HR,PMO,0.6916286,False
+HR,Arts,0.51160735,False
+HR,PMO,0.6786518,False
+HR,Java Developer,0.68187124,False
+HR,HR,0.62472564,True
+HR,HR,0.92091,True
+HR,Sales,0.4878013,False
+HR,HR,0.50252163,True
+HR,HR,0.50252163,True
+HR,Java Developer,0.47633976,False
+HR,HR,0.5552834,True
+HR,PMO,0.6916286,False
+HR,Arts,0.5116074,False
+HR,PMO,0.6786518,False
+HR,Java Developer,0.68187124,False
+HR,HR,0.62472564,True
+HR,HR,0.92091,True
+HR,Sales,0.4878013,False
+HR,HR,0.50252163,True
+HR,HR,0.50252163,True
+HR,Java Developer,0.47633976,False
+HR,HR,0.5552834,True
+HR,PMO,0.6916286,False
+HR,Arts,0.5116074,False
+HR,PMO,0.67865175,False
+HR,Java Developer,0.68187124,False
+HR,HR,0.62472564,True
+HR,HR,0.92091,True
+HR,Sales,0.4878013,False
+HR,HR,0.50252163,True
+HR,HR,0.50252163,True
+HR,Java Developer,0.47633976,False
+HR,HR,0.5552834,True
+HR,PMO,0.6916286,False
+HR,Arts,0.5116074,False
+HR,PMO,0.67865175,False
+HR,Java Developer,0.68187124,False
+Advocate,Advocate,0.9557751,True
+Advocate,Advocate,0.56353647,True
+Advocate,Advocate,0.4950786,True
+Advocate,Advocate,0.5675905,True
+Advocate,Advocate,0.8238076,True
+Advocate,Advocate,0.6801289,True
+Advocate,Advocate,0.5875256,True
+Advocate,Advocate,0.70084774,True
+Advocate,Advocate,0.65795547,True
+Advocate,Advocate,0.56827974,True
+Advocate,Advocate,0.955775,True
+Advocate,Advocate,0.5635363,True
+Advocate,Advocate,0.4950786,True
+Advocate,Advocate,0.5675905,True
+Advocate,Advocate,0.8238076,True
+Advocate,Advocate,0.6801289,True
+Advocate,Advocate,0.5875254,True
+Advocate,Advocate,0.70084816,True
+Advocate,Advocate,0.65795547,True
+Advocate,Advocate,0.56827974,True
+Arts,Arts,0.94968045,True
+Arts,Java Developer,0.67106986,False
+Arts,Web Designing,0.63733804,False
+Arts,Java Developer,0.44796443,False
+Arts,Health and fitness,0.49814516,False
+Arts,Arts,0.70185244,True
+Arts,Arts,0.9496803,True
+Arts,Java Developer,0.67106986,False
+Arts,Web Designing,0.63733804,False
+Arts,Java Developer,0.44796443,False
+Arts,Health and fitness,0.49814516,False
+Arts,Arts,0.70185256,True
+Arts,Arts,0.94968045,True
+Arts,Java Developer,0.67106986,False
+Arts,Web Designing,0.63733804,False
+Arts,Java Developer,0.44796443,False
+Arts,Health and fitness,0.49814516,False
+Arts,Arts,0.70185244,True
+Arts,Arts,0.9496803,True
+Arts,Java Developer,0.67106986,False
+Arts,Web Designing,0.63733804,False
+Arts,Java Developer,0.44796443,False
+Arts,Health and fitness,0.49814516,False
+Arts,Arts,0.70185256,True
+Arts,Arts,0.94968045,True
+Arts,Java Developer,0.67106986,False
+Arts,Web Designing,0.63733804,False
+Arts,Java Developer,0.44796443,False
+Arts,Health and fitness,0.49814516,False
+Arts,Arts,0.70185244,True
+Arts,Arts,0.9496803,True
+Arts,Java Developer,0.67106986,False
+Arts,Web Designing,0.63733804,False
+Arts,Java Developer,0.44796443,False
+Arts,Health and fitness,0.49814516,False
+Arts,Arts,0.70185256,True
+Web Designing,Web Designing,1.0,True
+Web Designing,Web Designing,0.8302449,True
+Web Designing,Web Designing,1.0,True
+Web Designing,Java Developer,0.6079974,False
+Web Designing,Web Designing,0.87065345,True
+Web Designing,Web Designing,1.0,True
+Web Designing,Web Designing,0.8302449,True
+Web Designing,Web Designing,1.0,True
+Web Designing,Java Developer,0.6079974,False
+Web Designing,Web Designing,0.87065345,True
+Web Designing,Web Designing,1.0,True
+Web Designing,Web Designing,0.8302449,True
+Web Designing,Web Designing,1.0,True
+Web Designing,Java Developer,0.6079974,False
+Web Designing,Web Designing,0.87065345,True
+Web Designing,Web Designing,1.0,True
+Web Designing,Web Designing,0.8302449,True
+Web Designing,Web Designing,1.0,True
+Web Designing,Java Developer,0.6079974,False
+Web Designing,Web Designing,0.87065345,True
+Web Designing,Web Designing,1.0,True
+Web Designing,Web Designing,0.8302449,True
+Web Designing,Web Designing,1.0,True
+Web Designing,Java Developer,0.6079974,False
+Web Designing,Web Designing,0.87065345,True
+Web Designing,Web Designing,1.0,True
+Web Designing,Web Designing,0.8302449,True
+Web Designing,Web Designing,1.0,True
+Web Designing,Java Developer,0.6079974,False
+Web Designing,Web Designing,0.87065345,True
+Web Designing,Web Designing,1.0,True
+Web Designing,Web Designing,0.8302449,True
+Web Designing,Web Designing,1.0,True
+Web Designing,Java Developer,0.6079974,False
+Web Designing,Web Designing,0.87065345,True
+Web Designing,Web Designing,1.0,True
+Web Designing,Web Designing,0.8302449,True
+Web Designing,Web Designing,1.0,True
+Web Designing,Java Developer,0.6079974,False
+Web Designing,Web Designing,0.87065345,True
+Web Designing,Web Designing,1.0,True
+Web Designing,Web Designing,0.8302449,True
+Web Designing,Web Designing,1.0,True
+Web Designing,Java Developer,0.6079974,False
+Web Designing,Web Designing,0.87065345,True
+Mechanical Engineer,Mechanical Engineer,0.9999999,True
+Mechanical Engineer,Mechanical Engineer,0.790383,True
+Mechanical Engineer,Mechanical Engineer,0.5763006,True
+Mechanical Engineer,Electrical Engineering,0.7587007,False
+Mechanical Engineer,Mechanical Engineer,0.595394,True
+Mechanical Engineer,Mechanical Engineer,1.0000001,True
+Mechanical Engineer,Mechanical Engineer,0.7903827,True
+Mechanical Engineer,Mechanical Engineer,0.5763006,True
+Mechanical Engineer,Electrical Engineering,0.7587007,False
+Mechanical Engineer,Mechanical Engineer,0.595394,True
+Mechanical Engineer,Mechanical Engineer,0.9999999,True
+Mechanical Engineer,Mechanical Engineer,0.790383,True
+Mechanical Engineer,Mechanical Engineer,0.5763006,True
+Mechanical Engineer,Electrical Engineering,0.7587007,False
+Mechanical Engineer,Mechanical Engineer,0.595394,True
+Mechanical Engineer,Mechanical Engineer,1.0000001,True
+Mechanical Engineer,Mechanical Engineer,0.7903827,True
+Mechanical Engineer,Mechanical Engineer,0.5763006,True
+Mechanical Engineer,Electrical Engineering,0.7587007,False
+Mechanical Engineer,Mechanical Engineer,0.595394,True
+Mechanical Engineer,Mechanical Engineer,0.9999999,True
+Mechanical Engineer,Mechanical Engineer,0.790383,True
+Mechanical Engineer,Mechanical Engineer,0.5763006,True
+Mechanical Engineer,Electrical Engineering,0.7587007,False
+Mechanical Engineer,Mechanical Engineer,0.595394,True
+Mechanical Engineer,Mechanical Engineer,0.9999999,True
+Mechanical Engineer,Mechanical Engineer,0.7903827,True
+Mechanical Engineer,Mechanical Engineer,0.5763006,True
+Mechanical Engineer,Electrical Engineering,0.7587007,False
+Mechanical Engineer,Mechanical Engineer,0.595394,True
+Mechanical Engineer,Mechanical Engineer,1.0000001,True
+Mechanical Engineer,Mechanical Engineer,0.7903827,True
+Mechanical Engineer,Mechanical Engineer,0.5763006,True
+Mechanical Engineer,Electrical Engineering,0.7587007,False
+Mechanical Engineer,Mechanical Engineer,0.595394,True
+Mechanical Engineer,Mechanical Engineer,0.9999999,True
+Mechanical Engineer,Mechanical Engineer,0.790383,True
+Mechanical Engineer,Mechanical Engineer,0.5763006,True
+Mechanical Engineer,Electrical Engineering,0.7587007,False
+Mechanical Engineer,Mechanical Engineer,0.595394,True
+Sales,Sales,0.7992176,True
+Sales,Sales,0.6729634,True
+Sales,Sales,0.8157562,True
+Sales,ETL Developer,0.7101033,False
+Sales,PMO,0.70113915,False
+Sales,Sales,0.79921746,True
+Sales,Sales,0.67296344,True
+Sales,Sales,0.8157561,True
+Sales,ETL Developer,0.7101033,False
+Sales,PMO,0.70113915,False
+Sales,Sales,0.7992176,True
+Sales,Sales,0.6729634,True
+Sales,Sales,0.8157562,True
+Sales,ETL Developer,0.7101033,False
+Sales,PMO,0.7011392,False
+Sales,Sales,0.7992176,True
+Sales,Sales,0.67296344,True
+Sales,Sales,0.8157561,True
+Sales,ETL Developer,0.7101033,False
+Sales,PMO,0.70113915,False
+Sales,Sales,0.79921746,True
+Sales,Sales,0.67296344,True
+Sales,Sales,0.8157562,True
+Sales,ETL Developer,0.7101033,False
+Sales,PMO,0.7011392,False
+Sales,Sales,0.7992176,True
+Sales,Sales,0.6729634,True
+Sales,Sales,0.8157562,True
+Sales,ETL Developer,0.7101033,False
+Sales,PMO,0.70113915,False
+Sales,Sales,0.79921746,True
+Sales,Sales,0.67296344,True
+Sales,Sales,0.8157561,True
+Sales,ETL Developer,0.7101033,False
+Sales,PMO,0.7011392,False
+Sales,Sales,0.7992176,True
+Sales,Sales,0.6729634,True
+Sales,Sales,0.8157562,True
+Sales,ETL Developer,0.7101033,False
+Sales,PMO,0.7011392,False
+Health and fitness,Health and fitness,0.7273209,True
+Health and fitness,Health and fitness,0.7830459,True
+Health and fitness,Health and fitness,0.8308833,True
+Health and fitness,Health and fitness,0.78156376,True
+Health and fitness,Health and fitness,0.7239668,True
+Health and fitness,Health and fitness,0.7386974,True
+Health and fitness,Health and fitness,0.7273209,True
+Health and fitness,Health and fitness,0.7830459,True
+Health and fitness,Health and fitness,0.8308833,True
+Health and fitness,Health and fitness,0.78156376,True
+Health and fitness,Health and fitness,0.7239668,True
+Health and fitness,Health and fitness,0.7386974,True
+Health and fitness,Health and fitness,0.7273209,True
+Health and fitness,Health and fitness,0.7830459,True
+Health and fitness,Health and fitness,0.8308833,True
+Health and fitness,Health and fitness,0.78156376,True
+Health and fitness,Health and fitness,0.7239668,True
+Health and fitness,Health and fitness,0.7386974,True
+Health and fitness,Health and fitness,0.7273209,True
+Health and fitness,Health and fitness,0.7830459,True
+Health and fitness,Health and fitness,0.8308833,True
+Health and fitness,Health and fitness,0.78156376,True
+Health and fitness,Health and fitness,0.7239668,True
+Health and fitness,Health and fitness,0.7386974,True
+Health and fitness,Health and fitness,0.7273209,True
+Health and fitness,Health and fitness,0.7830459,True
+Health and fitness,Health and fitness,0.8308833,True
+Health and fitness,Health and fitness,0.78156376,True
+Health and fitness,Health and fitness,0.7239668,True
+Health and fitness,Health and fitness,0.7386974,True
+Civil Engineer,Civil Engineer,0.99999994,True
+Civil Engineer,Java Developer,0.6168828,False
+Civil Engineer,Electrical Engineering,0.7575848,False
+Civil Engineer,Civil Engineer,0.78899986,True
+Civil Engineer,Civil Engineer,0.80602664,True
+Civil Engineer,Electrical Engineering,0.60894465,False
+Civil Engineer,Civil Engineer,1.0,True
+Civil Engineer,Java Developer,0.6168827,False
+Civil Engineer,Electrical Engineering,0.7575848,False
+Civil Engineer,Civil Engineer,0.7889999,True
+Civil Engineer,Civil Engineer,0.8060266,True
+Civil Engineer,Electrical Engineering,0.60894465,False
+Civil Engineer,Civil Engineer,0.99999994,True
+Civil Engineer,Java Developer,0.6168828,False
+Civil Engineer,Electrical Engineering,0.7575848,False
+Civil Engineer,Civil Engineer,0.78899986,True
+Civil Engineer,Civil Engineer,0.80602664,True
+Civil Engineer,Electrical Engineering,0.60894465,False
+Civil Engineer,Civil Engineer,1.0,True
+Civil Engineer,Java Developer,0.6168827,False
+Civil Engineer,Electrical Engineering,0.7575848,False
+Civil Engineer,Civil Engineer,0.7889999,True
+Civil Engineer,Civil Engineer,0.8060266,True
+Civil Engineer,Electrical Engineering,0.60894465,False
+Java Developer,Java Developer,0.652966,True
+Java Developer,Java Developer,0.9399868,True
+Java Developer,Java Developer,0.8353119,True
+Java Developer,SAP Developer,0.7192,False
+Java Developer,Java Developer,0.8024414,True
+Java Developer,Java Developer,0.7422395,True
+Java Developer,Java Developer,0.7578951,True
+Java Developer,Java Developer,0.7578951,True
+Java Developer,Java Developer,0.8195667,True
+Java Developer,Java Developer,0.7146862,True
+Java Developer,Java Developer,0.8157432,True
+Java Developer,Web Designing,0.81765044,False
+Java Developer,PMO,0.69289804,False
+Java Developer,Java Developer,0.7928884,True
+Java Developer,Java Developer,0.652966,True
+Java Developer,Java Developer,0.9399868,True
+Java Developer,Java Developer,0.8353119,True
+Java Developer,SAP Developer,0.7192,False
+Java Developer,Java Developer,0.8024414,True
+Java Developer,Java Developer,0.7422395,True
+Java Developer,Java Developer,0.7578951,True
+Java Developer,Java Developer,0.7578951,True
+Java Developer,Java Developer,0.8195667,True
+Java Developer,Java Developer,0.71468645,True
+Java Developer,Java Developer,0.8157432,True
+Java Developer,Web Designing,0.81765044,False
+Java Developer,PMO,0.69289804,False
+Java Developer,Java Developer,0.7928884,True
+Java Developer,Java Developer,0.652966,True
+Java Developer,Java Developer,0.9399868,True
+Java Developer,Java Developer,0.8353119,True
+Java Developer,SAP Developer,0.7191999,False
+Java Developer,Java Developer,0.8024414,True
+Java Developer,Java Developer,0.7422395,True
+Java Developer,Java Developer,0.7578951,True
+Java Developer,Java Developer,0.7578951,True
+Java Developer,Java Developer,0.8195667,True
+Java Developer,Java Developer,0.71468645,True
+Java Developer,Java Developer,0.8157432,True
+Java Developer,Web Designing,0.81765044,False
+Java Developer,PMO,0.69289804,False
+Java Developer,Java Developer,0.7928884,True
+Java Developer,Java Developer,0.652966,True
+Java Developer,Java Developer,0.9399868,True
+Java Developer,Java Developer,0.8353119,True
+Java Developer,SAP Developer,0.7191999,False
+Java Developer,Java Developer,0.8024414,True
+Java Developer,Java Developer,0.7422395,True
+Java Developer,Java Developer,0.7578951,True
+Java Developer,Java Developer,0.7578951,True
+Java Developer,Java Developer,0.8195667,True
+Java Developer,Java Developer,0.7146862,True
+Java Developer,Java Developer,0.8157432,True
+Java Developer,Web Designing,0.81765044,False
+Java Developer,PMO,0.69289804,False
+Java Developer,Java Developer,0.7928884,True
+Java Developer,Java Developer,0.652966,True
+Java Developer,Java Developer,0.9399868,True
+Java Developer,Java Developer,0.8353119,True
+Java Developer,SAP Developer,0.7191999,False
+Java Developer,Java Developer,0.8024414,True
+Java Developer,Java Developer,0.7422395,True
+Java Developer,Java Developer,0.7578951,True
+Java Developer,Java Developer,0.7578951,True
+Java Developer,Java Developer,0.8195667,True
+Java Developer,Java Developer,0.7146862,True
+Java Developer,Java Developer,0.8157432,True
+Java Developer,Web Designing,0.81765044,False
+Java Developer,PMO,0.6928979,False
+Java Developer,Java Developer,0.7928884,True
+Java Developer,Java Developer,0.652966,True
+Java Developer,Java Developer,0.9399868,True
+Java Developer,Java Developer,0.8353119,True
+Java Developer,SAP Developer,0.7192,False
+Java Developer,Java Developer,0.8024414,True
+Java Developer,Java Developer,0.7422395,True
+Java Developer,Java Developer,0.7578951,True
+Java Developer,Java Developer,0.7578951,True
+Java Developer,Java Developer,0.8195667,True
+Java Developer,Java Developer,0.7146862,True
+Java Developer,Java Developer,0.8157432,True
+Java Developer,Web Designing,0.81765044,False
+Java Developer,PMO,0.6928979,False
+Java Developer,Java Developer,0.7928884,True
+Business Analyst,Business Analyst,1.0000002,True
+Business Analyst,Java Developer,0.78221226,False
+Business Analyst,Business Analyst,0.8403835,True
+Business Analyst,Business Analyst,0.75577545,True
+Business Analyst,PMO,0.83645326,False
+Business Analyst,Java Developer,0.78823364,False
+Business Analyst,Business Analyst,0.8403835,True
+Business Analyst,Business Analyst,0.7557752,True
+Business Analyst,PMO,0.8364531,False
+Business Analyst,Java Developer,0.78823364,False
+Business Analyst,Business Analyst,0.84038335,True
+Business Analyst,Business Analyst,0.7557752,True
+Business Analyst,PMO,0.8364531,False
+Business Analyst,Java Developer,0.78823364,False
+Business Analyst,Business Analyst,1.0000005,True
+Business Analyst,Java Developer,0.78221226,False
+Business Analyst,Business Analyst,0.8403835,True
+Business Analyst,Business Analyst,0.75577545,True
+Business Analyst,PMO,0.83645326,False
+Business Analyst,Java Developer,0.78823364,False
+Business Analyst,Business Analyst,0.84038335,True
+Business Analyst,Business Analyst,0.7557752,True
+Business Analyst,PMO,0.8364531,False
+Business Analyst,Java Developer,0.78823364,False
+Business Analyst,Business Analyst,0.84038335,True
+Business Analyst,Business Analyst,0.75577545,True
+Business Analyst,PMO,0.83645326,False
+Business Analyst,Java Developer,0.78823364,False
+SAP Developer,SAP Developer,0.99999994,True
+SAP Developer,SAP Developer,0.786393,True
+SAP Developer,ETL Developer,0.7239051,False
+SAP Developer,Java Developer,0.7710061,False
+SAP Developer,PMO,0.74275434,False
+SAP Developer,SAP Developer,0.77806365,True
+SAP Developer,SAP Developer,1.0,True
+SAP Developer,SAP Developer,0.7863928,True
+SAP Developer,ETL Developer,0.7239051,False
+SAP Developer,Java Developer,0.7710061,False
+SAP Developer,PMO,0.7427544,False
+SAP Developer,SAP Developer,0.77806383,True
+SAP Developer,SAP Developer,0.99999994,True
+SAP Developer,SAP Developer,0.786393,True
+SAP Developer,ETL Developer,0.7239051,False
+SAP Developer,Java Developer,0.7710061,False
+SAP Developer,PMO,0.74275434,False
+SAP Developer,SAP Developer,0.77806365,True
+SAP Developer,SAP Developer,1.0,True
+SAP Developer,SAP Developer,0.7863928,True
+SAP Developer,ETL Developer,0.7239051,False
+SAP Developer,Java Developer,0.7710061,False
+SAP Developer,PMO,0.7427544,False
+SAP Developer,SAP Developer,0.77806383,True
+Automation Testing,Automation Testing,1.0000002,True
+Automation Testing,Mechanical Engineer,0.83019006,False
+Automation Testing,Java Developer,0.7982373,False
+Automation Testing,Business Analyst,0.7491821,False
+Automation Testing,Python Developer,0.8192,False
+Automation Testing,Business Analyst,0.7915604,False
+Automation Testing,Java Developer,0.61757064,False
+Automation Testing,Business Analyst,0.7491821,False
+Automation Testing,Python Developer,0.8192,False
+Automation Testing,Business Analyst,0.7491822,False
+Automation Testing,Python Developer,0.8191999,False
+Automation Testing,Business Analyst,0.7491822,False
+Automation Testing,Python Developer,0.8191999,False
+Automation Testing,Automation Testing,1.0000002,True
+Automation Testing,Mechanical Engineer,0.83019006,False
+Automation Testing,Java Developer,0.7982373,False
+Automation Testing,Business Analyst,0.7491821,False
+Automation Testing,Python Developer,0.8192,False
+Automation Testing,Business Analyst,0.7915604,False
+Automation Testing,Java Developer,0.61757064,False
+Automation Testing,Business Analyst,0.7491821,False
+Automation Testing,Python Developer,0.8191999,False
+Automation Testing,Business Analyst,0.7491822,False
+Automation Testing,Python Developer,0.8191999,False
+Automation Testing,Business Analyst,0.7491822,False
+Automation Testing,Python Developer,0.8191999,False
+Electrical Engineering,Electrical Engineering,1.0000002,True
+Electrical Engineering,Electrical Engineering,0.6583897,True
+Electrical Engineering,Electrical Engineering,0.83760077,True
+Electrical Engineering,Electrical Engineering,0.6325897,True
+Electrical Engineering,Electrical Engineering,0.8187624,True
+Electrical Engineering,Electrical Engineering,1.0000002,True
+Electrical Engineering,Electrical Engineering,0.6583897,True
+Electrical Engineering,Electrical Engineering,0.83760077,True
+Electrical Engineering,Electrical Engineering,0.6325897,True
+Electrical Engineering,Electrical Engineering,0.8187624,True
+Electrical Engineering,Electrical Engineering,1.0000002,True
+Electrical Engineering,Electrical Engineering,0.6583897,True
+Electrical Engineering,Electrical Engineering,0.83760077,True
+Electrical Engineering,Electrical Engineering,0.6325897,True
+Electrical Engineering,Electrical Engineering,0.8187624,True
+Electrical Engineering,Electrical Engineering,1.0000002,True
+Electrical Engineering,Electrical Engineering,0.6583897,True
+Electrical Engineering,Electrical Engineering,0.83760077,True
+Electrical Engineering,Electrical Engineering,0.6325897,True
+Electrical Engineering,Electrical Engineering,0.8187624,True
+Electrical Engineering,Electrical Engineering,1.0000002,True
+Electrical Engineering,Electrical Engineering,0.6583897,True
+Electrical Engineering,Electrical Engineering,0.83760077,True
+Electrical Engineering,Electrical Engineering,0.6325897,True
+Electrical Engineering,Electrical Engineering,0.8187624,True
+Electrical Engineering,Electrical Engineering,1.0000002,True
+Electrical Engineering,Electrical Engineering,0.6583897,True
+Electrical Engineering,Electrical Engineering,0.83760077,True
+Electrical Engineering,Electrical Engineering,0.6325897,True
+Electrical Engineering,Electrical Engineering,0.8187624,True
+Operations Manager,Operations Manager,0.9999998,True
+Operations Manager,Business Analyst,0.8062919,False
+Operations Manager,HR,0.78795195,False
+Operations Manager,Business Analyst,0.806288,False
+Operations Manager,Operations Manager,1.0,True
+Operations Manager,Business Analyst,0.8062919,False
+Operations Manager,HR,0.78795195,False
+Operations Manager,Business Analyst,0.8062879,False
+Operations Manager,Operations Manager,0.9999998,True
+Operations Manager,Business Analyst,0.8062918,False
+Operations Manager,HR,0.78795195,False
+Operations Manager,Business Analyst,0.8062879,False
+Operations Manager,Operations Manager,0.9999998,True
+Operations Manager,Business Analyst,0.8062919,False
+Operations Manager,HR,0.78795195,False
+Operations Manager,Business Analyst,0.806288,False
+Operations Manager,Operations Manager,1.0,True
+Operations Manager,Business Analyst,0.8062919,False
+Operations Manager,HR,0.78795195,False
+Operations Manager,Business Analyst,0.8062879,False
+Operations Manager,Operations Manager,0.9999998,True
+Operations Manager,Business Analyst,0.8062918,False
+Operations Manager,HR,0.78795195,False
+Operations Manager,Business Analyst,0.8062879,False
+Operations Manager,Operations Manager,0.9999998,True
+Operations Manager,Business Analyst,0.8062919,False
+Operations Manager,HR,0.78795195,False
+Operations Manager,Business Analyst,0.806288,False
+Operations Manager,Operations Manager,1.0,True
+Operations Manager,Business Analyst,0.8062919,False
+Operations Manager,HR,0.78795195,False
+Operations Manager,Business Analyst,0.8062879,False
+Operations Manager,Operations Manager,0.9999998,True
+Operations Manager,Business Analyst,0.8062918,False
+Operations Manager,HR,0.78795195,False
+Operations Manager,Business Analyst,0.8062879,False
+Operations Manager,Operations Manager,0.9999998,True
+Operations Manager,Business Analyst,0.8062919,False
+Operations Manager,HR,0.78795195,False
+Operations Manager,Business Analyst,0.806288,False
+Python Developer,Python Developer,0.9999999,True
+Python Developer,Python Developer,0.6025876,True
+Python Developer,Database,0.5623882,False
+Python Developer,Python Developer,0.7284584,True
+Python Developer,Arts,0.77641404,False
+Python Developer,Java Developer,0.7413982,False
+Python Developer,Python Developer,0.9999999,True
+Python Developer,Python Developer,0.6025876,True
+Python Developer,Database,0.5623881,False
+Python Developer,Python Developer,0.72845834,True
+Python Developer,Arts,0.77641404,False
+Python Developer,Java Developer,0.7413982,False
+Python Developer,Python Developer,0.9999999,True
+Python Developer,Python Developer,0.6025876,True
+Python Developer,Database,0.5623882,False
+Python Developer,Python Developer,0.7284584,True
+Python Developer,Arts,0.77641404,False
+Python Developer,Java Developer,0.7413982,False
+Python Developer,Python Developer,0.9999999,True
+Python Developer,Python Developer,0.6025876,True
+Python Developer,Database,0.56238806,False
+Python Developer,Python Developer,0.72845834,True
+Python Developer,Arts,0.77641404,False
+Python Developer,Java Developer,0.7413982,False
+Python Developer,Python Developer,0.9999999,True
+Python Developer,Python Developer,0.6025876,True
+Python Developer,Database,0.5623881,False
+Python Developer,Python Developer,0.7284584,True
+Python Developer,Arts,0.77641404,False
+Python Developer,Java Developer,0.7413982,False
+Python Developer,Python Developer,0.9999999,True
+Python Developer,Python Developer,0.6025876,True
+Python Developer,Database,0.56238806,False
+Python Developer,Python Developer,0.72845834,True
+Python Developer,Arts,0.77641404,False
+Python Developer,Java Developer,0.7413982,False
+Python Developer,Python Developer,0.9999999,True
+Python Developer,Python Developer,0.6025876,True
+Python Developer,Database,0.5623881,False
+Python Developer,Python Developer,0.7284584,True
+Python Developer,Arts,0.77641404,False
+Python Developer,Java Developer,0.7413982,False
+Python Developer,Python Developer,0.9999999,True
+Python Developer,Python Developer,0.6025876,True
+Python Developer,Database,0.56238806,False
+Python Developer,Python Developer,0.72845834,True
+Python Developer,Arts,0.77641404,False
+Python Developer,Java Developer,0.7413982,False
+DevOps Engineer,DevOps Engineer,1.0000002,True
+DevOps Engineer,Java Developer,0.771644,False
+DevOps Engineer,DevOps Engineer,0.7111856,True
+DevOps Engineer,ETL Developer,0.7802915,False
+DevOps Engineer,PMO,0.78638285,False
+DevOps Engineer,Python Developer,0.8061416,False
+DevOps Engineer,Java Developer,0.8096826,False
+DevOps Engineer,DevOps Engineer,1.0000002,True
+DevOps Engineer,Java Developer,0.771644,False
+DevOps Engineer,DevOps Engineer,0.7111856,True
+DevOps Engineer,DevOps Engineer,1.0000002,True
+DevOps Engineer,Java Developer,0.771644,False
+DevOps Engineer,DevOps Engineer,0.7111856,True
+DevOps Engineer,DevOps Engineer,1.0000002,True
+DevOps Engineer,Java Developer,0.771644,False
+DevOps Engineer,DevOps Engineer,0.7111856,True
+DevOps Engineer,DevOps Engineer,1.0000002,True
+DevOps Engineer,Java Developer,0.771644,False
+DevOps Engineer,DevOps Engineer,0.7111856,True
+DevOps Engineer,DevOps Engineer,1.0000002,True
+DevOps Engineer,Java Developer,0.771644,False
+DevOps Engineer,DevOps Engineer,0.7111856,True
+DevOps Engineer,DevOps Engineer,1.0000002,True
+DevOps Engineer,Java Developer,0.771644,False
+DevOps Engineer,DevOps Engineer,0.7111856,True
+DevOps Engineer,DevOps Engineer,1.0000002,True
+DevOps Engineer,Java Developer,0.771644,False
+DevOps Engineer,DevOps Engineer,0.7111856,True
+DevOps Engineer,DevOps Engineer,1.0000002,True
+DevOps Engineer,Java Developer,0.771644,False
+DevOps Engineer,DevOps Engineer,0.7111856,True
+DevOps Engineer,DevOps Engineer,1.0000002,True
+DevOps Engineer,Java Developer,0.771644,False
+DevOps Engineer,DevOps Engineer,0.7111856,True
+DevOps Engineer,DevOps Engineer,1.0000002,True
+DevOps Engineer,Java Developer,0.771644,False
+DevOps Engineer,DevOps Engineer,0.7111856,True
+DevOps Engineer,DevOps Engineer,1.0000002,True
+DevOps Engineer,Java Developer,0.771644,False
+DevOps Engineer,DevOps Engineer,0.7111856,True
+DevOps Engineer,DevOps Engineer,1.0000002,True
+DevOps Engineer,Java Developer,0.771644,False
+DevOps Engineer,DevOps Engineer,0.7111856,True
+DevOps Engineer,DevOps Engineer,1.0000002,True
+DevOps Engineer,Java Developer,0.771644,False
+DevOps Engineer,DevOps Engineer,0.7111856,True
+DevOps Engineer,DevOps Engineer,1.0000002,True
+DevOps Engineer,Java Developer,0.771644,False
+DevOps Engineer,DevOps Engineer,0.7111856,True
+DevOps Engineer,DevOps Engineer,1.0000002,True
+DevOps Engineer,Java Developer,0.771644,False
+DevOps Engineer,DevOps Engineer,0.7111856,True
+DevOps Engineer,DevOps Engineer,1.0000002,True
+DevOps Engineer,Java Developer,0.771644,False
+DevOps Engineer,DevOps Engineer,0.7111856,True
+Network Security Engineer,Network Security Engineer,1.0,True
+Network Security Engineer,Network Security Engineer,0.77973187,True
+Network Security Engineer,Network Security Engineer,0.75357485,True
+Network Security Engineer,Network Security Engineer,0.8091142,True
+Network Security Engineer,Network Security Engineer,0.76695186,True
+Network Security Engineer,Network Security Engineer,1.0,True
+Network Security Engineer,Network Security Engineer,0.77973187,True
+Network Security Engineer,Network Security Engineer,0.75357485,True
+Network Security Engineer,Network Security Engineer,0.80911446,True
+Network Security Engineer,Network Security Engineer,0.7669517,True
+Network Security Engineer,Network Security Engineer,1.0,True
+Network Security Engineer,Network Security Engineer,0.77973187,True
+Network Security Engineer,Network Security Engineer,0.7535751,True
+Network Security Engineer,Network Security Engineer,0.80911446,True
+Network Security Engineer,Network Security Engineer,0.76695186,True
+Network Security Engineer,Network Security Engineer,1.0,True
+Network Security Engineer,Network Security Engineer,0.77973187,True
+Network Security Engineer,Network Security Engineer,0.75357485,True
+Network Security Engineer,Network Security Engineer,0.8091142,True
+Network Security Engineer,Network Security Engineer,0.76695186,True
+Network Security Engineer,Network Security Engineer,1.0,True
+Network Security Engineer,Network Security Engineer,0.77973187,True
+Network Security Engineer,Network Security Engineer,0.7535751,True
+Network Security Engineer,Network Security Engineer,0.80911446,True
+Network Security Engineer,Network Security Engineer,0.7669517,True
+PMO,PMO,0.9999999,True
+PMO,PMO,0.8112188,True
+PMO,Business Analyst,0.8286068,False
+PMO,PMO,1.0000002,True
+PMO,PMO,0.8112188,True
+PMO,Business Analyst,0.8286068,False
+PMO,PMO,1.0000002,True
+PMO,PMO,0.81121856,True
+PMO,Business Analyst,0.8286071,False
+PMO,PMO,0.9999999,True
+PMO,PMO,0.81121856,True
+PMO,Business Analyst,0.8286071,False
+PMO,PMO,0.9999999,True
+PMO,PMO,0.8112188,True
+PMO,Business Analyst,0.8286068,False
+PMO,PMO,1.0000002,True
+PMO,PMO,0.8112188,True
+PMO,Business Analyst,0.8286068,False
+PMO,PMO,1.0000002,True
+PMO,PMO,0.81121856,True
+PMO,Business Analyst,0.8286071,False
+PMO,PMO,0.9999999,True
+PMO,PMO,0.81121856,True
+PMO,Business Analyst,0.8286071,False
+PMO,PMO,0.9999999,True
+PMO,PMO,0.8112188,True
+PMO,Business Analyst,0.8286068,False
+PMO,PMO,1.0000002,True
+PMO,PMO,0.8112188,True
+PMO,Business Analyst,0.8286068,False
+Database,Database,1.0000004,True
+Database,Database,0.7979753,True
+Database,ETL Developer,0.75981885,False
+Database,Database,0.83123684,True
+Database,Java Developer,0.71270156,False
+Database,Database,0.803938,True
+Database,Database,0.84776306,True
+Database,ETL Developer,0.7649491,False
+Database,ETL Developer,0.80890626,False
+Database,Database,0.84540796,True
+Database,SAP Developer,0.7805691,False
+Database,Database,1.0000004,True
+Database,Database,0.7979752,True
+Database,ETL Developer,0.75981885,False
+Database,Database,0.83123684,True
+Database,Java Developer,0.71270156,False
+Database,Database,0.803938,True
+Database,Database,0.84776306,True
+Database,ETL Developer,0.7649491,False
+Database,ETL Developer,0.80890626,False
+Database,Database,0.84540796,True
+Database,SAP Developer,0.7805691,False
+Database,Database,1.0000004,True
+Database,Database,0.7979752,True
+Database,ETL Developer,0.75981885,False
+Database,Database,0.83123684,True
+Database,Java Developer,0.71270156,False
+Database,Database,0.803938,True
+Database,Database,0.84776306,True
+Database,ETL Developer,0.7649491,False
+Database,ETL Developer,0.80890626,False
+Database,Database,0.84540796,True
+Database,SAP Developer,0.7805691,False
+Hadoop,Hadoop,1.0000001,True
+Hadoop,Hadoop,0.8762876,True
+Hadoop,Hadoop,0.8490791,True
+Hadoop,Hadoop,0.8022904,True
+Hadoop,Hadoop,0.83661795,True
+Hadoop,Hadoop,0.8211362,True
+Hadoop,Hadoop,0.8786756,True
+Hadoop,Hadoop,1.0000001,True
+Hadoop,Hadoop,0.8762876,True
+Hadoop,Hadoop,0.8490791,True
+Hadoop,Hadoop,0.8022904,True
+Hadoop,Hadoop,0.83661795,True
+Hadoop,Hadoop,0.8211362,True
+Hadoop,Hadoop,0.8786756,True
+Hadoop,Hadoop,1.0000001,True
+Hadoop,Hadoop,0.8762876,True
+Hadoop,Hadoop,0.8490791,True
+Hadoop,Hadoop,0.8022904,True
+Hadoop,Hadoop,0.83661795,True
+Hadoop,Hadoop,0.8211362,True
+Hadoop,Hadoop,0.8786756,True
+Hadoop,Hadoop,1.0000001,True
+Hadoop,Hadoop,0.8762876,True
+Hadoop,Hadoop,0.8490791,True
+Hadoop,Hadoop,0.8022904,True
+Hadoop,Hadoop,0.83661795,True
+Hadoop,Hadoop,0.8211362,True
+Hadoop,Hadoop,0.8786756,True
+Hadoop,Hadoop,1.0000001,True
+Hadoop,Hadoop,0.8762876,True
+Hadoop,Hadoop,0.8490791,True
+Hadoop,Hadoop,0.8022904,True
+Hadoop,Hadoop,0.83661795,True
+Hadoop,Hadoop,0.8211362,True
+Hadoop,Hadoop,0.8786756,True
+Hadoop,Hadoop,1.0000001,True
+Hadoop,Hadoop,0.8762876,True
+Hadoop,Hadoop,0.8490791,True
+Hadoop,Hadoop,0.8022904,True
+Hadoop,Hadoop,0.83661795,True
+Hadoop,Hadoop,0.8211362,True
+Hadoop,Hadoop,0.8786756,True
+ETL Developer,ETL Developer,1.0,True
+ETL Developer,ETL Developer,0.8005451,True
+ETL Developer,ETL Developer,0.83335066,True
+ETL Developer,ETL Developer,0.85260135,True
+ETL Developer,Java Developer,0.756963,False
+ETL Developer,ETL Developer,1.0,True
+ETL Developer,ETL Developer,0.8005451,True
+ETL Developer,ETL Developer,0.83335066,True
+ETL Developer,ETL Developer,0.85260135,True
+ETL Developer,Java Developer,0.756963,False
+ETL Developer,ETL Developer,1.0,True
+ETL Developer,ETL Developer,0.8005451,True
+ETL Developer,ETL Developer,0.83335066,True
+ETL Developer,ETL Developer,0.85260135,True
+ETL Developer,Java Developer,0.756963,False
+ETL Developer,ETL Developer,1.0,True
+ETL Developer,ETL Developer,0.8005451,True
+ETL Developer,ETL Developer,0.83335066,True
+ETL Developer,ETL Developer,0.85260135,True
+ETL Developer,Java Developer,0.756963,False
+ETL Developer,ETL Developer,1.0,True
+ETL Developer,ETL Developer,0.8005451,True
+ETL Developer,ETL Developer,0.83335066,True
+ETL Developer,ETL Developer,0.85260135,True
+ETL Developer,Java Developer,0.756963,False
+ETL Developer,ETL Developer,1.0,True
+ETL Developer,ETL Developer,0.8005451,True
+ETL Developer,ETL Developer,0.83335066,True
+ETL Developer,ETL Developer,0.85260135,True
+ETL Developer,Java Developer,0.756963,False
+ETL Developer,ETL Developer,1.0,True
+ETL Developer,ETL Developer,0.8005451,True
+ETL Developer,ETL Developer,0.83335066,True
+ETL Developer,ETL Developer,0.85260135,True
+ETL Developer,Java Developer,0.756963,False
+ETL Developer,ETL Developer,1.0,True
+ETL Developer,ETL Developer,0.8005451,True
+ETL Developer,ETL Developer,0.83335066,True
+ETL Developer,ETL Developer,0.85260135,True
+ETL Developer,Java Developer,0.756963,False
+DotNet Developer,DotNet Developer,0.9062511,True
+DotNet Developer,Java Developer,0.63454866,False
+DotNet Developer,Web Designing,0.75885344,False
+DotNet Developer,Java Developer,0.66281986,False
+DotNet Developer,DotNet Developer,0.7980801,True
+DotNet Developer,Web Designing,0.79930705,False
+DotNet Developer,DotNet Developer,0.8616134,True
+DotNet Developer,DotNet Developer,0.9062511,True
+DotNet Developer,Java Developer,0.63454866,False
+DotNet Developer,Web Designing,0.75885344,False
+DotNet Developer,Java Developer,0.66281986,False
+DotNet Developer,DotNet Developer,0.7980801,True
+DotNet Developer,Web Designing,0.79930705,False
+DotNet Developer,DotNet Developer,0.8616134,True
+DotNet Developer,DotNet Developer,0.9062511,True
+DotNet Developer,Java Developer,0.63454866,False
+DotNet Developer,Web Designing,0.75885344,False
+DotNet Developer,Java Developer,0.66281986,False
+DotNet Developer,DotNet Developer,0.7980801,True
+DotNet Developer,Web Designing,0.79930705,False
+DotNet Developer,DotNet Developer,0.8616134,True
+DotNet Developer,DotNet Developer,0.9062511,True
+DotNet Developer,Java Developer,0.63454866,False
+DotNet Developer,Web Designing,0.75885344,False
+DotNet Developer,Java Developer,0.66281986,False
+DotNet Developer,DotNet Developer,0.7980801,True
+DotNet Developer,Web Designing,0.79930705,False
+DotNet Developer,DotNet Developer,0.8616134,True
+Blockchain,Blockchain,0.9443246,True
+Blockchain,Blockchain,0.81790483,True
+Blockchain,Java Developer,0.7417254,False
+Blockchain,Java Developer,0.770995,False
+Blockchain,Blockchain,0.79679346,True
+Blockchain,Blockchain,0.9443245,True
+Blockchain,Blockchain,0.81790495,True
+Blockchain,Java Developer,0.7417254,False
+Blockchain,Java Developer,0.770995,False
+Blockchain,Blockchain,0.79679334,True
+Blockchain,Blockchain,0.9443246,True
+Blockchain,Blockchain,0.81790483,True
+Blockchain,Java Developer,0.7417254,False
+Blockchain,Java Developer,0.770995,False
+Blockchain,Blockchain,0.79679346,True
+Blockchain,Blockchain,0.9443245,True
+Blockchain,Blockchain,0.81790495,True
+Blockchain,Java Developer,0.7417254,False
+Blockchain,Java Developer,0.770995,False
+Blockchain,Blockchain,0.79679346,True
+Blockchain,Blockchain,0.9443246,True
+Blockchain,Blockchain,0.81790483,True
+Blockchain,Java Developer,0.7417254,False
+Blockchain,Java Developer,0.770995,False
+Blockchain,Blockchain,0.79679334,True
+Blockchain,Blockchain,0.9443246,True
+Blockchain,Blockchain,0.81790495,True
+Blockchain,Java Developer,0.7417254,False
+Blockchain,Java Developer,0.770995,False
+Blockchain,Blockchain,0.79679346,True
+Blockchain,Blockchain,0.9443245,True
+Blockchain,Blockchain,0.81790495,True
+Blockchain,Java Developer,0.7417254,False
+Blockchain,Java Developer,0.770995,False
+Blockchain,Blockchain,0.79679334,True
+Blockchain,Blockchain,0.9443246,True
+Blockchain,Blockchain,0.81790483,True
+Blockchain,Java Developer,0.7417254,False
+Blockchain,Java Developer,0.770995,False
+Blockchain,Blockchain,0.79679346,True
+Testing,Testing,0.646716,True
+Testing,Testing,0.8895457,True
+Testing,Electrical Engineering,0.7667407,False
+Testing,Business Analyst,0.8116157,False
+Testing,Electrical Engineering,0.80019593,False
+Testing,Electrical Engineering,0.6907318,False
+Testing,Java Developer,0.85991645,False
+Testing,Testing,0.64671606,True
+Testing,Testing,0.88954574,True
+Testing,Electrical Engineering,0.76674056,False
+Testing,Business Analyst,0.8116157,False
+Testing,Electrical Engineering,0.80019593,False
+Testing,Electrical Engineering,0.6907318,False
+Testing,Java Developer,0.85991645,False
+Testing,Testing,0.646716,True
+Testing,Testing,0.8895457,True
+Testing,Electrical Engineering,0.7667407,False
+Testing,Business Analyst,0.8116157,False
+Testing,Electrical Engineering,0.80019593,False
+Testing,Electrical Engineering,0.6907318,False
+Testing,Java Developer,0.85991645,False
+Testing,Testing,0.64671606,True
+Testing,Testing,0.8895457,True
+Testing,Electrical Engineering,0.76674056,False
+Testing,Business Analyst,0.8116157,False
+Testing,Electrical Engineering,0.80019593,False
+Testing,Electrical Engineering,0.6907318,False
+Testing,Java Developer,0.85991645,False
+Testing,Testing,0.64671606,True
+Testing,Testing,0.88954574,True
+Testing,Electrical Engineering,0.76674056,False
+Testing,Business Analyst,0.8116157,False
+Testing,Electrical Engineering,0.80019593,False
+Testing,Electrical Engineering,0.6907318,False
+Testing,Java Developer,0.85991645,False
+Testing,Testing,0.646716,True
+Testing,Testing,0.8895457,True
+Testing,Electrical Engineering,0.76674056,False
+Testing,Business Analyst,0.8116157,False
+Testing,Electrical Engineering,0.80019593,False
+Testing,Electrical Engineering,0.6907318,False
+Testing,Java Developer,0.85991645,False
+Testing,Testing,0.64671606,True
+Testing,Testing,0.88954574,True
+Testing,Electrical Engineering,0.76674056,False
+Testing,Business Analyst,0.8116157,False
+Testing,Electrical Engineering,0.80019593,False
+Testing,Electrical Engineering,0.6907318,False
+Testing,Java Developer,0.85991645,False
+Testing,Testing,0.646716,True
+Testing,Testing,0.8895457,True
+Testing,Electrical Engineering,0.7667407,False
+Testing,Business Analyst,0.8116157,False
+Testing,Electrical Engineering,0.80019593,False
+Testing,Electrical Engineering,0.6907318,False
+Testing,Java Developer,0.85991645,False
+Testing,Testing,0.64671606,True
+Testing,Testing,0.88954574,True
+Testing,Electrical Engineering,0.76674056,False
+Testing,Business Analyst,0.8116157,False
+Testing,Electrical Engineering,0.80019593,False
+Testing,Electrical Engineering,0.6907318,False
+Testing,Java Developer,0.85991645,False
+Testing,Testing,0.646716,True
+Testing,Testing,0.88954574,True
+Testing,Electrical Engineering,0.76674056,False
+Testing,Business Analyst,0.8116157,False
+Testing,Electrical Engineering,0.80019593,False
+Testing,Electrical Engineering,0.6907318,False
+Testing,Java Developer,0.85991645,False
