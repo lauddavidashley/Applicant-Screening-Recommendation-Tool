@@ -39,3 +39,20 @@ Outputs are saved to data/processed/:
 - cleaned_resumes.csv
 - tfidf_matrix.npz and tfidf_vectorizer.joblib
 - resume_embeddings.npy
+
+
+## Sprint 2: Matching & Evaluation
+
+Built track embeddings for all 25 job categories by combining resumes
+within each category, then used cosine similarity to match individual
+resumes to tracks. This is a zero-shot approach: the pretrained model
+is used as-is, with no additional training on this data.
+
+Overall accuracy: 62.3% (962 resumes, 25 categories).
+
+Accuracy varies by category. Distinct categories (Health and fitness,
+Network Security Engineer) score 100%, while categories with fewer
+resumes or overlapping vocabulary (Automation Testing, Testing,
+Operations Manager) score lower. This reflects a known limitation of
+small or imbalanced categories in a zero-shot setup, rather than a
+pipeline error.
