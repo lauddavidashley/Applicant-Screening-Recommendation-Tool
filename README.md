@@ -56,3 +56,22 @@ resumes or overlapping vocabulary (Automation Testing, Testing,
 Operations Manager) score lower. This reflects a known limitation of
 small or imbalanced categories in a zero-shot setup, rather than a
 pipeline error.
+
+
+## Sprint 3: API Serving
+
+The matching model is served via FastAPI (src/api.py).
+
+Run the server:
+uvicorn src.api:app --reload
+
+Then visit http://127.0.0.1:8000/docs for interactive testing.
+
+Endpoints:
+- GET /          health check
+- POST /predict       single resume -> top 3 track matches
+- POST /predict/batch   multiple resumes at once
+
+Model and track embeddings are cached at startup (not reloaded per
+request) for low-latency inference. Invalid input is rejected with
+clear validation errors via Pydantic.
