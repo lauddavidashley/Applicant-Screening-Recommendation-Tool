@@ -75,3 +75,12 @@ Endpoints:
 Model and track embeddings are cached at startup (not reloaded per
 request) for low-latency inference. Invalid input is rejected with
 clear validation errors via Pydantic.
+
+## External Integration
+
+src/client_demo.py simulates a frontend/backend app consuming the API.
+It sends sample resumes to the running API via HTTP and prints the
+top match for each. Run the API server first, then in a separate
+terminal:
+
+python src/client_demo.pys
