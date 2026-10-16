@@ -8,12 +8,35 @@ from pydantic import BaseModel, Field
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
+import logging
+import json
+from datetime import datetime, timezone
+
+
 ROOT = Path(__file__).resolve().parent.parent
 TRACK_EMBEDDINGS_PATH = ROOT / "data" / "processed" / "track_embeddings.npy"
 TRACK_NAMES_PATH = ROOT / "data" / "processed" / "track_names.csv"
 
 app = FastAPI(title="Applicant Screening & Recommendation API")
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger("prediction_log")
 
+LOG_PATH = ROOT / "data" / "processed" / "prediction_log.jsonl"
+
+
+def log_prediction(text: str, matches: list):
+    entry = {
+        "timestamp": datetime.now(timezone.utc).isoformat(),
+        "input_length": len(text),
+        "top_prediction": matches[0].track if matches else None,
+        "top_score": matches[0].score if matches else None,
+    }
+    logger.info(f"Prediction: {entry}")
+    try:
+        with open(LOG_PATH, "a") as f:
+            f.write(json.dumps(entry) + "\n")
+    except Exception as e:
+        logger.warning(f"Could not write to log file: {e}")
 
 # ---- Pydantic schemas: define the shape of requests/responses ----
 
@@ -74,11 +97,11 @@ def root():
 def predict(request: ResumeRequest):
     try:
         matches = match_text(request.text)
+        log_prediction(request.text, matches)
         return PredictionResponse(top_matches=matches)
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
-
-
+    
 @app.post("/predict/batch", response_model=BatchPredictionResponse)
 def predict_batch(request: BatchResumeRequest):
     try:
