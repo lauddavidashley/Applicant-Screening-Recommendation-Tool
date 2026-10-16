@@ -115,3 +115,11 @@ with a timestamp, input length, and top predicted track/score.
 Resume text itself is not stored, only metadata, for basic privacy.
 This supports monitoring prediction patterns and confidence scores
 over time (an early signal for data drift).
+
+## Testing
+
+Automated tests cover the API's health check, valid predictions,
+and input validation. Run them with:
+
+pip install -r requirements.txt
+pytest tests/ -v
