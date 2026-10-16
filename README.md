@@ -106,3 +106,12 @@ Try it: https://applicant-screening-recommendation-tool.onrender.com/docs
 
 Note: free tier spins down after inactivity, so the first request
 after idle time may take up to ~50 seconds to respond.
+
+
+## Logging & Monitoring
+
+Each prediction is logged to data/processed/prediction_log.jsonl
+with a timestamp, input length, and top predicted track/score.
+Resume text itself is not stored, only metadata, for basic privacy.
+This supports monitoring prediction patterns and confidence scores
+over time (an early signal for data drift).
