@@ -84,3 +84,14 @@ top match for each. Run the API server first, then in a separate
 terminal:
 
 python src/client_demo.pys
+
+
+## Docker
+
+Build the image:
+docker build -t resume-screening-api .
+
+Run the container:
+docker run -p 8000:8000 resume-screening-api
+
+Then visit http://127.0.0.1:8000/docs
