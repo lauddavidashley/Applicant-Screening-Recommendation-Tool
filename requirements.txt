@@ -3,3 +3,5 @@ scikit-learn
 sentence-transformers
 fastapi
 uvicorn
+pytest
+httpx
