@@ -95,3 +95,14 @@ Run the container:
 docker run -p 8000:8000 resume-screening-api
 
 Then visit http://127.0.0.1:8000/docs
+
+
+## Live Deployment
+
+Deployed on Render (Docker): 
+https://applicant-screening-recommendation-tool.onrender.com
+
+Try it: https://applicant-screening-recommendation-tool.onrender.com/docs
+
+Note: free tier spins down after inactivity, so the first request
+after idle time may take up to ~50 seconds to respond.
